@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hello, My name is Shakofa Mahmody. 👋 
 
-I’m currently learning Full Stack Web Developement. I have a warm personality who loves interacting with people and working on group projects. I have skills in JavaScript, CSS, jQuery, Node.js, Express and MySQL. I’m looking to collaborate on front-end and back-end projects. I’m also interested to start working as an intern. 
+Iam a Full Stack Web Developr. I have learned  programming languages for a year now, completed a 24 weeks intensive coding bootcamp with UC-Irvine, an completed other online programming courses. I have experience with javascript,CSS, HTML, nodeJS, Express, ES6 , jQuery and other technologies that I have listed below. I loves interacting with people and would love to work in group projects. I am still learning and at the same time looking for new jobs and opportunities in programming. Please check out Projects that Ihave worked on in below! 
 - 📫 Reach me at: shakofa.mahmody@gmail.com
